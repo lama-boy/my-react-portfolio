@@ -1,5 +1,9 @@
 const Page1 = ()=>{
-    return <h2>Im page1</h2>
+    return (
+    <div>
+        <h2>Im Prj</h2>
+    </div>
+    )
 }
 
 export default Page1;
