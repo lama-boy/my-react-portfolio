@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Page1 from './pages/page1';
 import Page2 from './pages/page2';
 import Intro from './pages/intro';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
